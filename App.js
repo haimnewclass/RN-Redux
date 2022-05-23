@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import {Item} from  './Item'
 import {Provider} from 'react-redux';
 import store from './redux';
-
+//npm install @reduxjs/toolkit react-redux
 
 export default function App() {
   return (
